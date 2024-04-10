@@ -1,2 +1,2 @@
 # WebGL-Visual-Learning-CW
-Selection of projects from a university Machine Learning module, featuring ensemble model, classifier models for the MNIST digit dataset and an introductory neural network for image classification, created with tensorflow
+Work completed for a university Visual Computing coursework, undertaken at the University of Bath. Written in WebGL, featuring 3D object rendering, camera manipulations and an implementation of Perlin Noise. Submitted first out of over 150 students, achieving a grade of 100% for the coding implementation. See pdf for final research report.
